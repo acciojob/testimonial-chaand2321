@@ -10,6 +10,9 @@ div{
 	  padding:10px;
 	  background-color:white;
   } 
+p{
+	font-family:sans-serif;
+}
 .author{
 	text-align : right ;
 	font-style: italic ;
